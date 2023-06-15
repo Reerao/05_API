@@ -22,5 +22,6 @@
 
   ****JavaScriptのみでChatGPT APIのリアルタイム出力を行うシンプルなチャットボット****https://qiita.com/kotonoha0109/items/52e73d500b19363b388f
 
-****解説! ChatGPT API(gpt-3.5-turbo)の使い方とパラメーターについて****https://ai-create.net/magazine/2023/03/02/post-10647/
+　　
+  ****解説! ChatGPT API(gpt-3.5-turbo)の使い方とパラメーターについて****https://ai-create.net/magazine/2023/03/02/post-10647/
   
